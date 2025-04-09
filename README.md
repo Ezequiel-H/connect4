@@ -14,7 +14,7 @@ This is a Node.js-based implementation of the classic **Connect 4** game, featur
 - Clean Code: Avoids repetitive, error-prone for loop logic for each direction.
 - Flexibility: Adding new patterns (e.g., larger match sequences) becomes a matter of defining new kernels.
 
-🧩 To-Do / Ideas
+## 🧩 To-Do / Ideas
 - Add playing experience
 - Add CLI or browser-based UI
 - Add AI opponent using minimax or Monte Carlo tree search
